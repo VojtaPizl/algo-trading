@@ -1,4 +1,4 @@
 PGHOST='192.168.1.104'
 PGDATABASE='securities_master'
-PGUSER='pi'
-PGPASSWORD='avid M00d'
+PGUSER='sm-writer'
+PGPASSWORD='stonks'
